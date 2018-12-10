@@ -5,10 +5,11 @@ font-family: 'Playfair Display', serif;
 }
 
 .header{
-size:48px;
+font-size:48px;
 color:yellow;
 background: linear-gradient(#0054f0, #1aecff);
   font-weight:bold;
+  margin:20px,20px,20px,20px;
   
 
 }
