@@ -3,3 +3,10 @@ color:#2b1d0e;
 font-family: 'Playfair Display', serif;
 
 }
+
+.header{
+text-size:48px;
+color:yellow;
+background: linear-gradient(#0054f0, #1aecff);
+
+}
