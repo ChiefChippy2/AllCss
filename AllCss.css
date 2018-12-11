@@ -6,7 +6,7 @@ font-family: 'Open Sans', serif;
 }
 
 .header{
-font-size:48px;
+font-size:56px;
 color:yellow;
 background: linear-gradient(#0054f0, #1aecff);
   font-weight:bold;
@@ -19,5 +19,12 @@ h2{
 font-size:34px;
 color:#154599;
 text-transform:uppercase;
+
+}
+
+h3{
+font-size:24px;
+font-family:'Rubik',sans-serif;
+font-weight:bold;
 
 }
